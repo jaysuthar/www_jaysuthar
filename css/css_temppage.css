@@ -176,12 +176,12 @@ h5 {
 }
 #footer ul {
 	border:0;
-	padding: 0;
+	padding: 0 0 40px 0;
 	list-style:none;
-	width:220px;
+	width:auto;
 	float:left;
 	display:block;
-	margin: 0 0 0 320px;
+	margin: 0 0 0 370px;
 }
 #footer li {
 	display:inline;
